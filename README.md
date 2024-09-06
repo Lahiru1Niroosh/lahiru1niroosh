@@ -122,8 +122,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru1niroosh&theme=dark" alt="lahiru1niroosh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lahiru1niroosh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiru1niroosh&show_icons=true&locale=en&layout=compact&theme=radical" alt="lahiru1niroosh" />
@@ -133,7 +134,7 @@
 
 <h2 align="center">🐍 GitHub Activity Snake</h2>
 
-![Snake animation](https://github.com/lahiru1niroosh/lahiru1niroosh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://img-blog.csdnimg.cn/direct/828ac8b8902444ef915beec379613d44.gif)
 
 ---
 
