@@ -17,14 +17,20 @@
 
 ---
 
-### 🛠️ About Me:
-- 🔭 Currently working on [**Machine Learning**](#) and **AI Models**.
-- 🌱 Learning **Data Science**, **Cloud Technologies**, and **Full-Stack Development**.
-- 👯 Open to collaborating on **React** and **MERN Stack Projects**.
-- 👨‍💻 Check out my projects on my [**Portfolio**](#) or [**GitHub**](#).
-- 💬 Ask me about anything related to **Web Dev**, **UI/UX**, **Project Management**, or **AI**!
-- ⚡ Fun Fact: I'm obsessed with **Dark Mode** and designing cool projects with it! 🌑<br><br>
+<h2 align="center">🛠️ About Me </h2>
+<p align="center"> <a href="https://twitter.com/lahiru1niroosh" target="blank"><img src="https://img.shields.io/twitter/follow/lahiru1niroosh?logo=twitter&style=for-the-badge" alt="lahiru1niroosh" /></a> </p>
 
+- 🔭 I’m currently working on : **Fundamental AI Concepts** [visit](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890)
+
+- 🌱 I’m currently learning **Machine Learning || Data Science || ** [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890)**
+
+- 👯 Open to collaborating on :  **React** and **MERN Stack Projects**.
+
+- 👨‍💻 Check out my projects on my :  [**Portfolio**](https://github.com/Lahiru1Niroosh#) or [**GitHub**](https://github.com/Lahiru1Niroosh#).
+
+- 💬 Ask me about anything related to :  **Web Dev**, **UI/UX**, **Project Management**, or **AI**!
+
+- ⚡ Fun fact :  **I love building cool side projects and always strive to enhance user experience with a creative, dark-themed design aesthetic! I'm also constantly learning to become an expert in AI, Data Science, and Software Engineering.**<br><br>
 
 <h2 align="center">🔗 Connect with Me </h2><br>
 <p align="center">
