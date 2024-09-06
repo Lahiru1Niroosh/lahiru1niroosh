@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiru1niroosh" alt="lahiru1niroosh" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/lahiru1niroosh" target="blank"><img src="https://img.shields.io/twitter/follow/lahiru1niroosh?logo=twitter&style=for-the-badge" alt="lahiru1niroosh" /></a> </p>
+
+- 🔭 I’m currently working on [🚧 I’m currently working on Building AI-Powered Solutions: Exploring Machine Learning and AI, developing smart models using Python and TensorFlow to solve real-world problems. Data Analytics Projects: Creating dashboards and reports using Power BI and Excel, extracting meaningful insights from complex datasets. Full-Stack Development: Enhancing my skills with React and the MERN stack by working on responsive and user-friendly web applications. Cloud Technologies: Developing and deploying scalable applications on Microsoft Azure, focusing on cloud-based infrastructure. I'm committed to learning and improving daily, whether through innovative projects or exploring new technologies like AI, Data Science, and Cloud Computing! 🚀](hj)
+
 - 🌱 I’m currently learning **Machine Learning: Enhancing my skills in building AI models using Python and TensorFlow.|| Data Science: Exploring data visualization and analytics using tools like Power BI and Excel. Cloud Technologies: Building scalable apps on Microsoft Azure.**
+
+- 👯 I’m looking to collaborate on [🚧 I’m currently working on Building AI-Powered Solutions: Exploring Machine Learning and AI, developing smart models using Python and TensorFlow to solve real-world problems. Data Analytics Projects: Creating dashboards and reports using Power BI and Excel, extracting meaningful insights from complex datasets. Full-Stack Development: Enhancing my skills with React and the MERN stack by working on responsive and user-friendly web applications. Cloud Technologies: Developing and deploying scalable applications on Microsoft Azure, focusing on cloud-based infrastructure. I'm committed to learning and improving daily, whether through innovative projects or exploring new technologies like AI, Data Science, and Cloud Computing! 🚀](l)
+
+- 🤝 I’m looking for help with [🚧 I’m currently working on Building AI-Powered Solutions: Exploring Machine Learning and AI, developing smart models using Python and TensorFlow to solve real-world problems. Data Analytics Projects: Creating dashboards and reports using Power BI and Excel, extracting meaningful insights from complex datasets. Full-Stack Development: Enhancing my skills with React and the MERN stack by working on responsive and user-friendly web applications. Cloud Technologies: Developing and deploying scalable applications on Microsoft Azure, focusing on cloud-based infrastructure. I'm committed to learning and improving daily, whether through innovative projects or exploring new technologies like AI, Data Science, and Cloud Computing! 🚀](hh)
 
 - 👨‍💻 All of my projects are available at [lahiru niroosh](lahiru niroosh)
 
@@ -13,12 +21,13 @@
 
 - 📫 How to reach me **www.lahiruniroosh@gmail.com**
 
-- 📄 Know about my experiences [lahiru_cv.pdf](https://drive.google.com/file/d/1hkBkG7lULcKRgXPI5P9RTJOtv6B7HkUD/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hkBkG7lULcKRgXPI5P9RTJOtv6B7HkUD/view?usp=drive_link](https://drive.google.com/file/d/1hkBkG7lULcKRgXPI5P9RTJOtv6B7HkUD/view?usp=drive_link)
 
 - ⚡ Fun fact **I love building cool side projects and always strive to enhance user experience with a creative, dark-themed design aesthetic! I'm also constantly learning to become an expert in AI, Data Science, and Software Engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/lahiru1niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahiru1niroosh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/lahiru-niroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lahiru-niroshan" height="30" width="40" /></a>
 <a href="https://fb.com/lahiru niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru niroosh" height="30" width="40" /></a>
 <a href="https://instagram.com/lahiru niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahiru niroosh" height="30" width="40" /></a>
