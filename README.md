@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lahiru1niroosh" target="blank"><img src="https://img.shields.io/twitter/follow/lahiru1niroosh?logo=twitter&style=for-the-badge" alt="lahiru1niroosh" /></a> </p>
 
-- 🔭 I’m currently working on [A](https://www.google.com/search?q=gif+for+github+readme&sca_esv=46ae20c3277ba888&sca_upv=1&udm=2&biw=1488&bih=706&sxsrf=ADLYWILeoVpjx3iir-9DRdw6jVDS6fQTdQ%3A1725615281594&ei=sczaZtGDJLmQ4-EPi6r-2Ao&oq=gif+for+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2dpZiBmb3IgZ2l0KgIIATIFEAAYgAQyBRAAGIAEMgcQABiABBgYSLFnUIQIWIVYcAJ4AJABApgBthCgAblbqgENMi03LjUuMy4xLjktM7gBAcgBAPgBAZgCDqACoSOoAgrCAgQQIxgnwgIKEAAYgAQYQxiKBcICCBAAGIAEGLEDwgIHECMYJxjqAsICDRAAGIAEGLEDGEMYigXCAgYQABgFGB6YAwKIBgGSBwkyLjAuNC40LjSgB9xl&sclient=gws-wiz-serp#vhid=K7opGSGXBbknjM&vssid=mosaic)
+- 🔭 I’m currently working on [A](https://www.google.com)
 
 - 🌱 I’m currently learning **Machine Learning: Enhancing my skills in building AI models using Python and TensorFlow.|| Data Science: Exploring data visualization and analytics using tools like Power BI and Excel. Cloud Technologies: Building scalable apps on Microsoft Azure.**
 
