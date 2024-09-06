@@ -19,7 +19,7 @@
 
 <h2 align="center">🛠️ About Me </h2>
 
-<p align="center"> <a href="https://twitter.com/lahiru1niroosh" target="blank"><img src="https://img.shields.io/twitter/follow/lahiru1niroosh?logo=twitter&style=for-the-badge" alt="lahiru1niroosh" /></a> </p>
+<p align="center"> <a href="https://x.com/LahiruNiro78703" target="blank"><img src="https://img.shields.io/twitter/follow/lahiru1niroosh?logo=twitter&style=for-the-badge" alt="lahiru1niroosh" /></a> </p>
 
 - 🔭 I’m currently working on : **Fundamental AI Concepts** [visit](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890)
 
@@ -43,7 +43,7 @@
 
 <h2 align="center">🔗 Connect with Me </h2><br>
 <p align="center">
-<a href="https://twitter.com/lahiru1niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahiru1niroosh" height="30" width="40" /></a>
+<a href="https://x.com/LahiruNiro78703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahiru1niroosh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/lahiru-niroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lahiru-niroshan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22810218/lahiru-nirosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22810218/lahiru-nirosh" height="30" width="40" /></a>
 <a href="https://fb.com/lahiru niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru niroosh" height="30" width="40" /></a>
