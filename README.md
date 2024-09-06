@@ -134,7 +134,7 @@
 
 <h2 align="center">🐍 GitHub Activity Snake</h2>
 
-![Snake animation](https://img-blog.csdnimg.cn/direct/828ac8b8902444ef915beec379613d44.gif)
+![Snake animation](https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg)
 
 ---
 
