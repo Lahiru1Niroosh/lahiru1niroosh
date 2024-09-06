@@ -10,7 +10,7 @@
   🚀 Aspiring Software Engineer | 🎓 IT Undergraduate at SLIIT <br/>
   💡 Passionate About Innovative Tech, Creative Solutions, and Full-Stack Development
 </h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 
 
