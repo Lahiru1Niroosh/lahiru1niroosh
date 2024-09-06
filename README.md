@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hey There! I'm <span style="color: #ff4757;">Lahiru Niroshan Sathsara</span></h1>
 
 <h3 align="center">
-  🚀 Aspiring Software Engineer | 🎓 IT Undergraduate at SLIIT <br/>
+  🎓 IT Undergraduate at SLIIT | 🚀 Aspiring Software Engineer   <br/>
   💡 Passionate About Innovative Tech, Full-Stack Development, and Creative Solutions
 </h3>
 
@@ -18,11 +18,12 @@
 ---
 
 <h2 align="center">🛠️ About Me </h2>
+
 <p align="center"> <a href="https://twitter.com/lahiru1niroosh" target="blank"><img src="https://img.shields.io/twitter/follow/lahiru1niroosh?logo=twitter&style=for-the-badge" alt="lahiru1niroosh" /></a> </p>
 
 - 🔭 I’m currently working on : **Fundamental AI Concepts** [visit](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890)
 
-- 🌱 I’m currently learning **Machine Learning || Data Science || ** [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890)**
+- 🌱 I’m currently learning :  **Machine Learning || Data Science || [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890)**
 
 - 👯 Open to collaborating on :  **React** and **MERN Stack Projects**.
 
@@ -32,6 +33,14 @@
 
 - ⚡ Fun fact :  **I love building cool side projects and always strive to enhance user experience with a creative, dark-themed design aesthetic! I'm also constantly learning to become an expert in AI, Data Science, and Software Engineering.**<br><br>
 
+---
+### 📫 How to Reach Me:
+- 📧  **lahiruniroosh@gmail.com**
+- 🌐 [LinkedIn](https://linkedin.com/in/lahiru-niroshan)
+- 📝 [Resume](https://drive.google.com/file/d/1hkBkG7lULcKRgXPI5P9RTJOtv6B7HkUD/view?usp=drive_link)
+
+
+
 <h2 align="center">🔗 Connect with Me </h2><br>
 <p align="center">
 <a href="https://twitter.com/lahiru1niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahiru1niroosh" height="30" width="40" /></a>
@@ -40,6 +49,7 @@
 <a href="https://fb.com/lahiru niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru niroosh" height="30" width="40" /></a>
 <a href="https://instagram.com/lahiru niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahiru niroosh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerearth.com/@www.lahiruniroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerearth.com/@www.lahiruniroosh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/9voy7cfuc5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/9voy7cfuc5/" height="30" width="40" /></a>
 </p><br><br>
 
 <h2 align="center"> 🛠️ Languages and Tools </h2><br>
@@ -61,14 +71,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahiru1niroosh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-### 📫 How to Reach Me:
-- 📧 Email: **lahiruniroosh@gmail.com**
-- 🌐 [LinkedIn](https://linkedin.com/in/lahiru-niroshan)
-- 📝 [Resume](https://drive.google.com/file/d/1hkBkG7lULcKRgXPI5P9RTJOtv6B7HkUD/view?usp=drive_link)
-
----
 
 ### 🎨 Fun Fact:
 > "I love building cool side projects and always strive to enhance user experience with a creative, dark-themed design aesthetic!" 🌑
