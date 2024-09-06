@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lahiru1niroosh" target="blank"><img src="https://img.shields.io/twitter/follow/lahiru1niroosh?logo=twitter&style=for-the-badge" alt="lahiru1niroosh" /></a> </p>
 
-- 🔭 I’m currently working on QWWW[Click here](www.lahiruniroosh@gmail.com)
+- 🔭 I’m currently working on QWWW[Click here](www.google.com)
 
 - 🌱 I’m currently learning **Machine Learning: Enhancing my skills in building AI models using Python and TensorFlow.|| Data Science: Exploring data visualization and analytics using tools like Power BI and Excel. Cloud Technologies: Building scalable apps on Microsoft Azure.**
 
