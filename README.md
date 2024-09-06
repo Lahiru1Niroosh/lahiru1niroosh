@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="coding" width="50% >
+  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="coding" width="200">
 </p>
 
 ---
@@ -30,9 +30,9 @@
 ### 🔗 Connect with Me:
 <p align="left">
 <a href="https://twitter.com/lahiru1niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahiru1niroosh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/lahiru-niroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lahiru-niroshan" height="30" width="40" /></a>
-<a href="https://fb.com/lahiru niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru niroosh" height="30" width="40" /></a>
-<a href="https://instagram.com/lahiru niroosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahiru niroosh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/lahiru-niroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lahiru-niroshan" height="30" width="40" /></a>
+<a href="https://web.facebook.com/lahiru.nirosh.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru niroosh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_lahiru_niroosh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahiru niroosh" height="30" width="40" /></a>
 </p>
 ---
 
