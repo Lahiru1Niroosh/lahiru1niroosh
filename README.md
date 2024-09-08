@@ -4,7 +4,7 @@
 </p>
 
 <!-- Master Head -->
-<h1 align="center">👋 Hey There! I'm <span style="color: #ff4757;">Lahiru Niroshan Sathsara</span></h1>
+<h1 align="center">👋 Hellow world!__I'm <span style="color: #ff4757;">Lahiru Niroshan Sathsara</span></h1>
 
 <h3 align="center">
   🎓 IT Undergraduate at SLIIT | 🚀 Aspiring Software Engineer <br/>
