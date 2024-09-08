@@ -25,85 +25,23 @@
   </a>
 </p>
 
-<div align="center">
-  <h2>🔭 I’m currently working on:</h2>
-  <p><strong>Fullstack Development Project</strong></p>
+- 🔭 I’m currently working on :  **Fullstack development Project**
+- 🌱 I’m currently learning   : **Machine Learning || Data Science || Fullstack development ||   [Fundamental AI Concepts](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890)**
+- 👯 Open to collaborating on : **React** and **MERN Stack Projects**
+- 👨‍💻 Check out my projects on : [**Portfolio**](https://github.com/Lahiru1Niroosh#) or [**GitHub**](https://github.com/Lahiru1Niroosh#)
+- 💬 Ask me about             : **Web Dev**, **UI/UX**, **Project Management**, **QA** or **AI**
+- ⚡ Fun fact                 : **I love building cool side projects and always strive to enhance user experience with a creative, dark-themed design aesthetic! I'm also constantly learning to become an expert in AI, Data Science, and Software Engineering.**<br>
 
-  <h2>🌱 I’m currently learning:</h2>
-  <p>
-    <strong>Machine Learning || Data Science || Fullstack Development</strong><br>
-    <a href="https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=studentamb_416890" target="_blank">
-      Fundamental AI Concepts
-    </a>
-  </p>
 
-  <h2>👯 Open to collaborating on:</h2>
-  <p><strong>React</strong> and <strong>MERN Stack Projects</strong></p>
 
-  <h2>👨‍💻 Check out my projects on:</h2>
-  <p>
-    <a href="https://github.com/Lahiru1Niroosh#"><strong>Portfolio</strong></a> or 
-    <a href="https://github.com/Lahiru1Niroosh#"><strong>GitHub</strong></a>
-  </p>
+<h2 align="center">📫 How to Reach Me</h2>
 
-  <h2>💬 Ask me about:</h2>
-  <p>
-    <strong>Web Dev</strong>, <strong>UI/UX</strong>, <strong>Project Management</strong>, 
-    <strong>QA</strong>, or <strong>AI</strong>
-  </p>
 
-  <h2>⚡ Fun fact:</h2>
-  <p>
-    I love building cool side projects and always strive to enhance user experience 
-    with a creative, dark-themed design aesthetic! I'm also constantly learning to 
-    become an expert in AI, Data Science, and Software Engineering.
-  </p>
-  
-  <hr style="width:50%;">
+- 📧  **lahiruniroosh@gmail.com**
+- 🌐 [LinkedIn](https://linkedin.com/in/lahiru-niroshan)
+- 📝 [Resume](https://drive.google.com/file/d/1hkBkG7lULcKRgXPI5P9RTJOtv6B7HkUD/view?usp=drive_link)
 
-  <h2>📫 How to Reach Me:</h2>
-  <p>
-    📧  <strong>lahiruniroosh@gmail.com</strong><br>
-    🌐 <a href="https://linkedin.com/in/lahiru-niroshan" target="_blank">LinkedIn</a><br>
-    📝 <a href="https://drive.google.com/file/d/1hkBkG7lULcKRgXPI5P9RTJOtv6B7HkUD/view?usp=drive_link" target="_blank">Resume</a>
-  </p>
-</div>
-
-<style>
-  div {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    text-align: center;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-  }
-
-  a {
-    color: #0073e6;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  hr {
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 20px 0;
-  }
-
-  p {
-    font-size: 1.1em;
-  }
-
-  h2 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
-  }
-</style>
-
+---
 <h2 align="center">🔗 Connect with Me </h2><br>
 
 <p align="center">
