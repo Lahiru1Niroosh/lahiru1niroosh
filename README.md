@@ -60,11 +60,11 @@
   <a href="https://instagram.com/lahiru niroosh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahiru niroosh" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/https://www.hackerearth.com/@www.lahiruniroosh" target="blank">
+  <a href="https://www.hackerearth.com/@www.lahiruniroosh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerearth.com/@www.lahiruniroosh" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/9voy7cfuc5/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/9voy7cfuc5/" height="30" width="40" />
+  <a href="https://leetcode.com/u/9VoY7cfUC5/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/9VoY7cfUC5/" height="30" width="40" />
   </a>
 </p>
 
