@@ -48,8 +48,8 @@
   <a href="https://x.com/LahiruNiro78703" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahiru1niroosh" height="30" width="40" />
   </a>
-  <a href="www.linkedin.com/in/lahiru-niroshan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lahiru-niroshan" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/lahiru-niroshan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lahiru-niroshan/" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22810218/lahiru-nirosh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22810218/lahiru-nirosh" height="30" width="40" />
