@@ -90,11 +90,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahiru1niroosh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiru1niroosh&show_icons=true&locale=en&layout=compact&theme=radical" alt="lahiru1niroosh" />
 </p>
 
