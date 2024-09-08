@@ -48,13 +48,13 @@
   <a href="https://x.com/LahiruNiro78703" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahiru1niroosh" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/lahiru-niroshan" target="blank">
+  <a href="www.linkedin.com/in/lahiru-niroshan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lahiru-niroshan" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22810218/lahiru-nirosh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22810218/lahiru-nirosh" height="30" width="40" />
   </a>
-  <a href="https://fb.com/lahiru niroosh" target="blank">
+  <a href="https://web.facebook.com/lahiru.nirosh.98/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahiru niroosh" height="30" width="40" />
   </a>
   <a href="https://instagram.com/lahiru niroosh" target="blank">
