@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/503139/screenshots/4955857/data_engineer_animation.gif" alt="Data Engineer Animation" width="100%" />
+  <img src="[https://cdn.dribbble.com/users/503139/screenshots/4955857/data_engineer_animation.gif](https://www.astera.com/wp-content/uploads/2023/01/Multi-Cloud-Integration.gif)" alt="Data Engineer Animation" width="100%" />
 </p>
 
 <!-- Header -->
