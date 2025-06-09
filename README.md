@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="[https://cdn.dribbble.com/users/503139/screenshots/4955857/data_engineer_animation.gif](https://www.astera.com/wp-content/uploads/2023/01/Multi-Cloud-Integration.gif)" alt="Data Engineer Animation" width="100%" />
+  <img src="[https://cdn.dribbble.com/users/503139/screenshots/4955857/data_engineer_animation.gif](https://www.astera.com/wp-content/uploads/2023/01/Multi-Cloud-Integration.gif(https://miro.medium.com/v2/resize:fit:1280/1*0CdnlsIgyYWP6QOHLofwfA.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2Fwhy-do-modern-businesses-need-data-engineering-services-b977abd8a9d1&psig=AOvVaw25UWYfHFzVVVj3V7BBe6uP&ust=1749543462368000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjtjc7z440DFQAAAAAdAAAAABAX)" alt="Data Engineer Animation" width="100%" />
 </p>
 
 <!-- Header -->
