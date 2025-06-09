@@ -1,6 +1,6 @@
 <!-- Gradient Animated Banner -->
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/d1d598127078217.613a5daa3bcf1.gif" alt="Tech Banner" width="90%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(255,71,87,0.3);"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F127078217%2FGenerative-Typography-in-Motion&psig=AOvVaw1HPRcYY3e6L0nx4fKYSDcC&ust=1749547408682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCNjdkKCC5I0DFQAAAAAdAAAAABCCAQ" alt="Tech Banner" width="90%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(255,71,87,0.3);"/>
 </div>
 
 <!-- Animated Header -->
