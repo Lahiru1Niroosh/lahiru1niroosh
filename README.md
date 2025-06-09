@@ -1,32 +1,86 @@
-<!-- Dynamic Animated Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lahiru1niroosh/lahiru1niroosh/main/assets/data-engineering-banner.gif" alt="Data Engineering Banner" width="100%"/>
-</div>
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/503139/screenshots/4955857/data_engineer_animation.gif" alt="Data Engineer Animation" width="100%" />
+</p>
 
-<!-- 3D Animated Header with Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Hello+World!+👋+I'm+Lahiru+Niroshan" alt="Typing Header" />
-</h1>
-
-<!-- Professional Title Badges -->
+<!-- Header -->
+<h1 align="center">Hey there 👋 I'm <span style="color:#4ade80;">Lahiru Niroshan</span></h1>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Database%20Architect-Oracle%20%7C%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineer-ETL%20%7C%20Spark-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Specialist-GCP%20%7C%20AWS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  🔧 DBA Intern | 🚀 Aspiring Data Engineer | 🎓 IT Undergraduate at SLIIT
 </h3>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Building+Robust+Data+Systems;Mastering+Oracle+%26+Linux;Delivering+Data-Driven+Insights" alt="Typing SVG" />
+</p>
 
-## 🚀 Professional Profile
+---
 
-```mermaid
-graph LR
-    A[Oracle DBA] --> B[Database Optimization]
-    A --> C[High Availability]
-    B --> D[Data Engineering]
-    C --> D
-    D --> E[Cloud Data Pipelines]
-    D --> F[Distributed Systems]
-    E --> G[Data Mesh Architecture]
-    F --> G
+<h2 align="center">🌟 About Me</h2>
+
+- 🔹 Currently interning as a **Database Administrator (Oracle + Linux)**
+- 🔹 Deepening expertise in **Oracle DB tuning**, **Linux internals**, and **system management**
+- 🔹 Transitioning into **Data Engineering** focusing on ETL pipelines, data warehousing, and cloud data platforms
+- 🔹 Actively learning **Apache Airflow**, **Big Data ecosystems (Hadoop, Spark)**, and **Cloud (AWS & GCP)**
+- 🔹 Passionate about automating workflows and building scalable, efficient data solutions
+- 🔹 Favorite setup: dark mode terminals and powerful backend systems ⚡
+
+---
+
+<h2 align="center">📬 Let's Connect!</h2>
+
+<p align="center">
+  <a href="mailto:lahiruniroosh@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/lahiru-niroshan"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/LahiruNiro78703"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://leetcode.com/u/9VoY7cfUC5/"><img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://github.com/lahiru1niroosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,oracle,linux,docker,airflow,spark,gcp,aws,git,github,bash,mysql,postgresql,kubernetes" alt="Tech Stack" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lahiru1niroosh&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru1niroosh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lahiru1niroosh&theme=tokyonight&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">🎯 2025 Goals</h2>
+
+- ✅ Master **Oracle DB Performance Tuning** & **Linux System Administration**
+- ✅ Build and deploy **4 advanced Data Engineering projects** including ETL pipelines & real-time data processing
+- ☁️ Gain hands-on experience deploying data workflows on **AWS & GCP cloud platforms**
+- 📝 Publish detailed technical blogs & tutorials sharing data engineering insights
+- 🚀 Secure a **full-time Data Engineer** role by end of 2025
+
+---
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/624240/screenshots/14625124/media/c95638b3f04c8327b9a5607d40b76b0d.gif" alt="Data Engineer Animation" width="70%" />
+</p>
