@@ -1,6 +1,6 @@
 <!-- Animated Banner with Dark Theme -->
 <p align="center">
-  <img src="[https://www.astera.com/wp-content/uploads/2023/01/Multi-Cloud-Integration.gif](https://miro.medium.com/v2/resize:fit:1280/1*0CdnlsIgyYWP6QOHLofwfA.gif)" alt="Data Engineering Banner" width="100%" />
+  <img src="https://www.astera.com/wp-content/uploads/2023/01/Multi-Cloud-Integration.gif" alt="Data Engineering Banner" width="100%" />
 </p>
 
 <!-- 3D Animated Header -->
