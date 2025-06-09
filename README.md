@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.mockofun.com/wp-content/uploads/2024/10/animated-discord-banners.gif" alt="banner" width="100%" />
+  <img src="https://cdn.dribbble.com/userupload/24087657/file/original-94d180707ef3b05419ec4666226a6e0d.gif" alt="banner" width="40%" />
+  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b1/86/9e/b1869e87464e08dbc36c32e988508f00.gif" alt="banner" width="100%" />
+  
 </p>
 
 <!-- Header -->
