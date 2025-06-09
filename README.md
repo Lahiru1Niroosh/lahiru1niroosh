@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/503139/screenshots/4955857/data_engineer_animation.gif" alt="Data Engineer Animation" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:1280/1*0CdnlsIgyYWP6QOHLofwfA.gif" alt="Data Engineer Animation" width="100%" />
 </p>
 
 <!-- Header -->
