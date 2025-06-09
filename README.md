@@ -1,86 +1,76 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="[[https://cdn.dribbble.com/users/503139/screenshots/4955857/data_engineer_animation.gif](https://www.astera.com/wp-content/uploads/2023/01/Multi-Cloud-Integration.gif(https://miro.medium.com/v2/resize:fit:1280/1*0CdnlsIgyYWP6QOHLofwfA.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2Fwhy-do-modern-businesses-need-data-engineering-services-b977abd8a9d1&psig=AOvVaw25UWYfHFzVVVj3V7BBe6uP&ust=1749543462368000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjtjc7z440DFQAAAAAdAAAAABAX)](https://miro.medium.com/v2/resize:fit:1280/1*0CdnlsIgyYWP6QOHLofwfA.gif)" alt="Data Engineer Animation" width="100%" />
-</p>
+<!-- Dynamic Header with Gradient Text -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Hello+World!+👋+I'm+Lahiru+Niroshan;Oracle+DB+Specialist;Data+Engineering+Enthusiast;Cloud+Data+Solutions+Builder" alt="Typing Intro" />
+</h1>
 
-<!-- Header -->
-<h1 align="center">Hey there 👋 I'm <span style="color:#4ade80;">Lahiru Niroshan</span></h1>
-<h3 align="center">
-  🔧 DBA Intern | 🚀 Aspiring Data Engineer | 🎓 IT Undergraduate at SLIIT
-</h3>
+<h3 align="center">Database Professional Transitioning to Cloud-Native Data Engineering</h3>
 
+<!-- Professional Banner with Data Engineering Focus -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Building+Robust+Data+Systems;Mastering+Oracle+%26+Linux;Delivering+Data-Driven+Insights" alt="Typing SVG" />
+  <img src="https://i.gifer.com/origin/51/510d4b0671f41d071c6d654d029e0a4a.gif" alt="Data Pipeline Animation" width="85%"/>
 </p>
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+## 🔍 Professional Profile
 
-- 🔹 Currently interning as a **Database Administrator (Oracle + Linux)**
-- 🔹 Deepening expertise in **Oracle DB tuning**, **Linux internals**, and **system management**
-- 🔹 Transitioning into **Data Engineering** focusing on ETL pipelines, data warehousing, and cloud data platforms
-- 🔹 Actively learning **Apache Airflow**, **Big Data ecosystems (Hadoop, Spark)**, and **Cloud (AWS & GCP)**
-- 🔹 Passionate about automating workflows and building scalable, efficient data solutions
-- 🔹 Favorite setup: dark mode terminals and powerful backend systems ⚡
+**Database Administrator | Data Engineer | Cloud Data Specialist**  
+*Building robust data infrastructure with enterprise-grade reliability*
 
----
-
-<h2 align="center">📬 Let's Connect!</h2>
-
-<p align="center">
-  <a href="mailto:lahiruniroosh@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/lahiru-niroshan"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/LahiruNiro78703"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://leetcode.com/u/9VoY7cfUC5/"><img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://github.com/lahiru1niroosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+- 🏢 Currently honing expertise as **Oracle DBA Intern** with focus on performance tuning and high-availability systems
+- 📊 Developing advanced competencies in **distributed data systems** and **cloud-native ETL pipelines**
+- 🛠️ Engineering solutions at the intersection of **database optimization**, **data modeling**, and **scalable architectures**
+- 🌐 Passionate about **data observability**, **governance**, and **infrastructure-as-code** principles
+- 📚 Continuous learner currently focused on **Apache Spark**, **Data Mesh architectures**, and **GCP data services**
 
 ---
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+## 🛠️ Core Competencies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,oracle,linux,docker,airflow,spark,gcp,aws,git,github,bash,mysql,postgresql,kubernetes" alt="Tech Stack" />
-</p>
+### Database Engineering
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- Performance tuning & query optimization
+- High-availability configurations (RAC, Data Guard)
+- Database security hardening
+- PL/SQL development
 
----
+### Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+- Batch & stream processing pipelines
+- Dimensional modeling (Star/Snowflake schemas)
+- Data quality monitoring frameworks
+- Metadata management
 
-<h2 align="center">📊 GitHub Stats</h2>
+### Cloud Platforms
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+- BigQuery & Redshift data warehousing
+- Cloud SQL/Spanner management
+- Dataflow & Dataproc processing
+- Infrastructure-as-code (Terraform)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahiru1niroosh&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru1niroosh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lahiru1niroosh&theme=tokyonight&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">🎯 2025 Goals</h2>
-
-- ✅ Master **Oracle DB Performance Tuning** & **Linux System Administration**
-- ✅ Build and deploy **4 advanced Data Engineering projects** including ETL pipelines & real-time data processing
-- ☁️ Gain hands-on experience deploying data workflows on **AWS & GCP cloud platforms**
-- 📝 Publish detailed technical blogs & tutorials sharing data engineering insights
-- 🚀 Secure a **full-time Data Engineer** role by end of 2025
+### DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+- CI/CD for data pipelines
+- Containerized data applications
+- Configuration management
+- Monitoring & alerting (Prometheus/Grafana)
 
 ---
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/624240/screenshots/14625124/media/c95638b3f04c8327b9a5607d40b76b0d.gif" alt="Data Engineer Animation" width="70%" />
-</p>
+## 📈 Technical Progression
+
+### Current Focus Areas
+```mermaid
+pie
+    title 2024 Q3 Learning Focus
+    "Advanced Oracle Concepts" : 30
+    "Spark Optimization" : 25
+    "Cloud Data Engineering" : 25
+    "Data Observability" : 20
