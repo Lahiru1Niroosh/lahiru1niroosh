@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Building+Robust+Data+Systems;Mastering+Oracle+%26+Linux;Delivering+Data-Driven+Insights" alt="Typing SVG" />
+  <img src="https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif" alt="Typing SVG" />
 </p>
 
 ---
