@@ -1,6 +1,6 @@
 <!-- Gradient Animated Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Tech Banner" width="90%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(255,71,87,0.3);"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/d1d598127078217.613a5daa3bcf1.gif" alt="Tech Banner" width="90%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(255,71,87,0.3);"/>
 </div>
 
 <!-- Animated Header -->
