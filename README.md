@@ -2,10 +2,7 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/24087657/file/original-94d180707ef3b05419ec4666226a6e0d.gif" alt="banner" width="40%" />
   
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b1/86/9e/b1869e87464e08dbc36c32e988508f00.gif" alt="banner" width="100%" />
-  
-</p>
+
 
 <!-- Header -->
 <h1 align="center">Hey there 👋 I'm <span style="color:#ff4757;">Lahiru Niroshan</span></h1>
@@ -16,6 +13,10 @@
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Data-Driven+Solutions;Exploring+Big+Data+%26+Cloud;Lifelong+Learner+%26+Tech+Lover" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b1/86/9e/b1869e87464e08dbc36c32e988508f00.gif" alt="banner" width="100%" />
+  
 </p>
 
 ---
