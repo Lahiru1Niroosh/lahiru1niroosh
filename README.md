@@ -1,6 +1,6 @@
 <!-- Animated Banner with centered content -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/79/ab/9f/79ab9f804b5ebbdd514af3329cad6e0c.gif" width="20%"/>
+  <img src="[https://i.pinimg.com/originals/79/ab/9f/79ab9f804b5ebbdd514af3329cad6e0c.gif](https://i.gifer.com/ENyE.gif)" width="20%"/>
   
   <!-- Glowing Title -->
   <h1 align="center">
