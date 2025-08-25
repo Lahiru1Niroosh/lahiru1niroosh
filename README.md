@@ -1,6 +1,6 @@
 <!-- Animated Banner with centered content -->
 <div align="center">
-  <img src="https://i.gifer.com/ENyE.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F2mcl&psig=AOvVaw1-ngwfDZUbybISrqPAREIJ&ust=1756191480794000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjhybWxpY8DFQAAAAAdAAAAABA7" width="20%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyamxmYmhpemN5b2UzZm53anBkYmV2bHo0amh1ano2NWNuNHk5bHVrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C8KAPsRKhmIAYXymrd/200.gif" width="20%"/>
   
   <!-- Glowing Title -->
   <h1 align="center">
