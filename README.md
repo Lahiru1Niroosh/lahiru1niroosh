@@ -1,94 +1,110 @@
-<!-- Animated Banner with centered content -->
+<!-- Banner Section -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyamxmYmhpemN5b2UzZm53anBkYmV2bHo0amh1ano2NWNuNHk5bHVrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C8KAPsRKhmIAYXymrd/200.gif" width="20%"/>
-  
-  <!-- Glowing Title -->
-  <h1 align="center">
-    <span style="color: #ff4757; text-shadow: 0 0 10px #ff475755;">Hey there 👋 I'm Lahiru Niroshan</span>
-  </h1>
-  
-  <!-- Animated Subtitle -->
-  <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=🚀+Aspiring+Data+Engineer;💻+Software+Enthusiast;🎓+IT+Undergraduate+at+SLIIT" alt="Typing SVG" />
-  </h3>
+  <img src="https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif" alt="Banner" width="40%"/>
 </div>
 
-<br/>
+<br>
 
-<!-- About Me Section with Card-like Design -->
+<!-- Profile Section -->
 <div align="center">
-  <div style="background: linear-gradient(145deg, #1e1e2e, #2a2a3a); padding: 2rem; border-radius: 15px; max-width: 800px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-    <h2 align="center" style="color: #58A6FF; margin-bottom: 1rem;">🌟 About Me</h2>
-    
-
-      🔭 Currently working on Oracle + Linux-based DBA Internship @ VSIS
-      
-      🛠️ Learning about Multimodal & Agentic AI in personal time
-      
-      🔄 Transitioning into <b>Data Engineering – Pipelines, ETL, Cloud Warehousing
-      
-      📚 Currently exploring: Big Data, Airflow, SQL Tuning, AWS/GCP
-      
-      ⚙️ Building a Python-based Data Pipeline
-      
-      ⚡ Fun Fact: I love dark themes & animated UIs, but my heart's in backend & data 🧙‍♂️
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHkVK1tj4klFw/profile-displayphoto-shrink_800_800/B56ZdTKryNHUAc-/0/1749447000891?e=1761177600&v=beta&t=fAD6oY403m4v4RFrKPDKer-BpS_OPPm7mb4h8qgyPXU" width="180" height="180" style="border-radius:50%">
   
-  </div>
+  <h1>Lahiru Niroshan</h1>
+  
+  <p>
+    <strong>🚀 Aspiring Data Engineer | 💻 Software Enthusiast | 🎓 IT Undergraduate at SLIIT</strong>
+  </p>
 </div>
 
-<br/><br/>
+<br>
 
-<!-- Social Links with Animated Icons -->
-<h2 align="center" style="color: #58A6FF;">📬 Let's Connect!</h2>
-<p align="center">
-  <a href="mailto:lahiruniroosh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://linkedin.com/in/lahiru-niroshan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/LahiruNiro78703">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/9VoY7cfUC5/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<!-- About Me Section -->
+## 🎯 About Me
 
-<br/>
+- 🔭 Currently working on **Oracle + Linux-based DBA Internship @ VSIS**
+- 🛠️ Learning about **Multimodal & Agentic AI** in personal time
+- 🔄 Transitioning into **Data Engineering – Pipelines, ETL, Cloud Warehousing**
+- 📚 Currently exploring: **Big Data, Airflow, SQL Tuning, AWS/GCP**
+- ⚙️ Building a **Python-based Data Pipeline**
+- ⚡ Fun Fact: I love dark themes & animated UIs, but my heart's in backend & data
 
-<!-- Tech Stack with Floating Animation -->
-<h2 align="center" style="color: #58A6FF;">💻 Tech Stack & Tools</h2>
-<div align="center" style="margin: 2rem 0;">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,mongodb,mysql,postgresql,linux,oracle,docker,git,github,figma,postman,html,css,js,tailwind,bootstrap&perline=10" style="animation: float 6s ease-in-out infinite;" />
-</div>
+<br>
 
-<br/><br/>
+<!-- Connect Section -->
+## 📫 Let's Connect!
 
-<!-- GitHub Stats in Card Layout -->
-<h2 align="center" style="color: #58A6FF;">📊 GitHub Stats</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahiru1niroosh&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru1niroosh&layout=compact&theme=radical&langs_count=8" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahiruniroosh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahiru-niroshan)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LahiruNiro78703)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/9VoY7cfUC5/)
 
-<br/><br/>
+<br>
 
-<!-- Snake Animation with Glow Effect -->
-<h2 align="center" style="color: #58A6FF;">🐍 Contribution Snake</h2>
-<div align="center" style="filter: drop-shadow(0 0 5px #58A6FF55);">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%"/>
-</div>
+<!-- Tech Stack Section -->
+## 💻 Tech Stack & Tools
 
-<br/><br/>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- Goals Section with Animated List -->
-<h2 align="center" style="color: #58A6FF;">🎯 Goals for 2025</h2>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
 <div align="center">
-  ✅ Master <b>Linux & Oracle DB Tuning
-  🔄 Build <b>4 Complete Data Engineering Projects
-  ☁️ Deploy pipelines on AWS/GCP
-  🧠 Share knowledge via <b>LinkedIn + GitHub articles
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=lahiru1niroosh&show_icons=true&theme=radical&hide_title=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru1niroosh&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
+<br>
+
+<!-- Snake Animation -->
+## 🐍 Contribution Graph
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<!-- Goals Section -->
+## 🎯 Goals for 2025
+
+- [x] Master **Linux & Oracle DB Tuning**
+- [ ] Build **4 Complete Data Engineering Projects**
+- [ ] Deploy pipelines on AWS/GCP
+- [ ] Share knowledge via **LinkedIn + GitHub articles**
+
+<br>
+
+---
+
+<div align="center">
+  
+  <p>⭐️ From <a href="https://github.com/lahiru1niroosh">Lahiru Niroshan</a></p>
+  
+</div>
