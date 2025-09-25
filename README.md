@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Infrastructure;Oracle+%2B+Linux+DBA+Intern+%40+VSIS;Big+Data+%7C+ETL+%7C+Real-time+Analytics;AWS+%7C+GCP+%7C+Apache+Ecosystem" alt="Typing SVG" />
 
-# 💫 Lahiru Niroshan Sathsara
-**Data Engineering Specialist | Oracle/Linux DBA | Big Data Enthusiast**
+
 
 
 
