@@ -1,35 +1,21 @@
-<!-- Banner Section -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/a920fe28cb238322b3ef412cd3858f2f0299c9c6bb77be58379b7a0fe821eab5/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f736f66745f6465766c6f702e676966" alt="Banner" width="40%"/>
-</div>
 
-<br>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lahiru%20Niroshan&fontSize=50&fontAlignY=35&animation=fadeIn)
 
-<!-- Profile Section -->
-<div align="center">
-  
-  
-  <h1>Lahiru Niroshan Sathsara</h1><br>
-  <img src="https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif" width="180" height="180" style="border-radius:50%">
-  <br><br><br>
-  <p>
-    <strong>🚀 Aspiring Data Engineer | 💻 Software Enthusiast | 🎓 IT Undergraduate at SLIIT</strong>
-  </p>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Infrastructure;Oracle+%2B+Linux+DBA+Intern+%40+VSIS;Big+Data+%7C+ETL+%7C+Real-time+Analytics;AWS+%7C+GCP+%7C+Apache+Ecosystem" alt="Typing SVG" />
 
-<br>
+# 💫 Lahiru Niroshan Sathsara
+**Data Engineering Specialist | Oracle/Linux DBA | Big Data Enthusiast**
 
-<!-- About Me Section -->
-## 🎯 About Me
 
-- 🔭 Currently working on **Oracle + Linux-based DBA Internship @ VSIS**
-- 🛠️ Learning about **Multimodal & Agentic AI** in personal time
-- 🔄 Transitioning into **Data Engineering – Pipelines, ETL, Cloud Warehousing**
-- 📚 Currently exploring: **Big Data, Airflow, SQL Tuning, AWS/GCP**
-- ⚙️ Building a **Python-based Data Pipeline**
-- ⚡ Fun Fact: I love dark themes & animated UIs, but my heart's in backend & data
 
-<br>
+---
+
+## 🚀 Professional Summary
+
+Seasoned IT undergraduate with specialized expertise in **database administration** and **data engineering pipelines**. Currently enhancing enterprise data infrastructure at **VS Information Systems** while building advanced ETL systems and real-time analytics solutions.
+
+---
 
 <!-- Connect Section -->
 ## 📫 Let's Connect!
