@@ -37,8 +37,8 @@ Focus   : Streaming · SQL Analytics · Cloud
 Open to : Data Engineering Opportunities ✅
 ```
 
-> Building infrastructure that turns raw data
-> into decisions — from Oracle production DBs
+> Building infrastructure that turns raw data  
+> into decisions — from Oracle production DBs  
 > to distributed streaming pipelines at scale.
 
 </td>
@@ -52,19 +52,15 @@ Open to : Data Engineering Opportunities ✅
 
 ---
 
-## 🏗️ How I Think About Data
+## 🏗️ Data Pipeline Architecture
 
 <div align="center">
 
-```
-  INGEST          PROCESS          STORE           SERVE
-──────────────────────────────────────────────────────────
-  Kafka      →   Spark SS     →   Cassandra   →   Superset
-  NiFi       →   PySpark      →   PostgreSQL  →   Power BI
-  REST APIs  →   Medallion    →   DuckDB      →   Tableau
-  Oracle     →   ETL / ELT    →   BigQuery    →   Streamlit
-                  └─── Docker · OCI · AWS · Azure ───┘
-```
+| | INGEST | PROCESS | STORE | SERVE |
+|:---:|:---:|:---:|:---:|:---:|
+| **Tools** | Kafka · NiFi · REST APIs | Spark SS · PySpark · ETL/ELT | Cassandra · PostgreSQL · DuckDB | Power BI · Superset · Streamlit |
+| **Pattern** | Event Streaming | Medallion Architecture | Dual-Store Strategy | Real-Time Dashboards |
+| **Infra** | Docker | OCI · AWS · Azure | BigQuery · MongoDB | Tableau · Matplotlib |
 
 </div>
 
@@ -76,15 +72,19 @@ Open to : Data Engineering Opportunities ✅
 
 **⚡ Data Engineering & Streaming**
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kafka,py,docker,linux,git&theme=dark"/>
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-00B4D8?style=for-the-badge&logoColor=white)
-![Medallion](https://img.shields.io/badge/Medallion_Arch-0a2744?style=for-the-badge&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-00B4D8?style=for-the-badge)
+![Medallion](https://img.shields.io/badge/Medallion_Arch-0a2744?style=for-the-badge)
 
 **🗄️ Databases**
 
-![Oracle](https://img.shields.io/badge/Oracle%20DBA-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,mysql,oracle&theme=dark"/>
+
+![Oracle DBA](https://img.shields.io/badge/Oracle%20DBA-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=cassandra&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -93,11 +93,13 @@ Open to : Data Engineering Opportunities ✅
 
 **🧑‍💻 Languages & Analytics**
 
+<img src="https://skillicons.dev/icons?i=python,java,r&theme=dark"/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **📊 Visualization & BI**
 
@@ -108,12 +110,13 @@ Open to : Data Engineering Opportunities ✅
 
 **☁️ Cloud & DevOps**
 
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git&theme=dark"/>
+
 ![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -127,7 +130,7 @@ Open to : Data Engineering Opportunities ✅
 |:---|:---|:---|
 | [📡 Real-Time Social Media Analytics](https://github.com/Lahiru1Niroosh) | Kafka · Spark · Cassandra · Docker | High-volume streaming · dual-store strategy |
 | [🚗 SwiftRide Data Pipeline](https://github.com/Lahiru1Niroosh) | Kafka · Spark · Cassandra | Ride event pipeline · low-latency queries |
-| [🏥 Healthcare EHR Analytics](https://github.com/Lahiru1Niroosh) | Python · PostgreSQL · BigQuery · Tableau | EHR transformation · Power BI dashboards |
+| [🏥 Healthcare EHR Analytics](https://github.com/Lahiru1Niroosh) | Python · PostgreSQL · BigQuery | EHR transformation · Power BI dashboards |
 | [🍔 Uber Eats SL Analytics](https://github.com/Lahiru1Niroosh) *(live)* | Python · SQL · Streamlit · Sklearn | Pricing elasticity · churn prediction |
 | [📈 Job Market Trend Tracker](https://github.com/Lahiru1Niroosh) | Python · DuckDB · Power BI | Medallion Arch · Reddit API · 50K+ records |
 
@@ -137,24 +140,20 @@ Open to : Data Engineering Opportunities ✅
 
 ## 📊 GitHub Stats
 
-<!-- WakaTime / stats via img.shields.io — 100% reliable, no rate limits -->
 <div align="center">
 
-![Total Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lahiru1Niroosh&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=00b4d8&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/Lahiru1Niroosh?style=for-the-badge&color=0a2744&logo=github&logoColor=white&label=Followers)
-![Stars](https://img.shields.io/github/stars/Lahiru1Niroosh?style=for-the-badge&color=f4a261&logo=github&logoColor=white&label=Stars)
+<!-- Profile Summary Cards — different service, much more reliable than github-readme-stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lahiru1Niroosh&theme=github_dark" width="100%"/>
 
 <br/>
 
-<!-- Primary stats — using anuraghazra cache-busted URL -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lahiru1Niroosh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=f4a261&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru1Niroosh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=7&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lahiru1Niroosh&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lahiru1Niroosh&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lahiru1Niroosh&theme=github_dark" width="32%"/>
 
 <br/>
 
-<!-- Streak — demolab is the most stable streak service -->
-<img width="60%" src="https://streak-stats.demolab.com/?user=Lahiru1Niroosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=f4a261&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555555&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com/?user=Lahiru1Niroosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=f4a261&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555555" width="60%"/>
 
 </div>
 
@@ -164,7 +163,7 @@ Open to : Data Engineering Opportunities ✅
 
 <div align="center">
 
-[![Lahiru's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lahiru1Niroosh&theme=react-dark&bg_color=0d1117&color=00b4d8&line=0e6ba8&point=f4a261&area=true&hide_border=true)](https://github.com/Lahiru1Niroosh)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lahiru1Niroosh&theme=react-dark&bg_color=0d1117&color=00b4d8&line=0e6ba8&point=f4a261&area=true&hide_border=true)](https://github.com/Lahiru1Niroosh)
 
 </div>
 
@@ -174,8 +173,7 @@ Open to : Data Engineering Opportunities ✅
 
 <div align="center">
 
-<!-- Using raw img tag with full URL — most reliable way to embed trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Lahiru1Niroosh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lahiru1Niroosh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
@@ -217,8 +215,6 @@ Open to : Data Engineering Opportunities ✅
 ## 🐍 Eating My Contributions
 
 <div align="center">
-
-> ⚙️ **Setup required once:** Add the [snake workflow](https://github.com/Platane/snk) to `.github/workflows/snake.yml` in this repo to generate the animation below.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lahiru1Niroosh/Lahiru1Niroosh/output/github-contribution-grid-snake-dark.svg"/>
