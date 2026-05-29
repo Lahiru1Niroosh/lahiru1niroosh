@@ -1,129 +1,116 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     LAHIRU NIROSHAN SATHSARA — GitHub Profile README
-     Data Engineer · Database Administrator · Analytics Engineer
-═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ▸ ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020917,30:0a2744,70:0e6ba8,100:00b4d8&height=280&section=header&text=Lahiru%20Niroshan&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer%20%E2%80%A2%20Oracle%20DBA%20%E2%80%A2%20Pipeline%20Architect&descColor=90e0ef&descSize=18&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020917,40:0a2744,100:00b4d8&height=260&section=header&text=Lahiru%20Niroshan%20Sathsara&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Data%20Engineer%20%E2%80%A2%20Oracle%20DBA%20%E2%80%A2%20Pipeline%20Architect&descColor=90e0ef&descSize=16&descAlignY=62&animation=twinkling"/>
 
-<!-- ▸ ANIMATED TYPING TAGLINES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&repeat=true&width=750&lines=📡+Kafka+%2B+Spark+Streaming+Pipelines;🗄️+Oracle+DBA+%7C+Production+Banking+Systems;🏗️+Medallion+Architecture+%7C+ETL%2FELT+Design;☁️+OCI+%7C+AWS+%7C+Azure+Certified;🔢+SQL+Analytics+%7C+Power+BI+%7C+Superset;🚀+Transitioning+→+Senior+Data+Engineer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=700&lines=📡+Kafka+%2B+Spark+Streaming+Pipelines;🗄️+Oracle+DBA+%7C+Production+Banking+Systems;🏗️+Medallion+Architecture+%7C+ETL%2FELT+Design;☁️+OCI+%7C+AWS+%7C+Azure+Certified;🚀+Transitioning+→+Senior+Data+Engineer" alt="Typing SVG"/>
 
 <br/>
 
-<!-- ▸ SOCIAL BADGES -->
 <a href="https://linkedin.com/in/lahiru-niroshan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Lahiru1Niroosh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:lahirusathsara671@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/LahiruNiro78703"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/LahiruNiro78703"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br/><br/>
 
-<!-- ▸ LIVE COUNTERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=Lahiru1Niroosh&style=flat-square&color=00b4d8&label=👁️+Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Lahiru1Niroosh?label=Followers&style=flat-square&color=00b4d8)
-![GitHub stars](https://img.shields.io/github/stars/Lahiru1Niroosh?label=Stars&style=flat-square&color=f4a261)
+![Profile Views](https://komarev.com/ghpvc/?username=Lahiru1Niroosh&style=flat-square&color=00b4d8&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Lahiru1Niroosh?label=Followers&style=flat-square&color=00b4d8)
 
 </div>
 
 ---
 
-<!-- ▸ TERMINAL ABOUT -->
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td width="55%" valign="top">
 
-```bash
-╔══════════════════════════════════════════╗
-║     lahiru@data-eng:~$ whoami            ║
-╚══════════════════════════════════════════╝
+### 👨‍💻 About Me
 
-  Name     → Lahiru Niroshan Sathsara
-  Role     → DBA ──────────► Data Engineer
-  Company  → VS Information Systems 🏦
-  Uni      → SLIIT · BSc IT (Hons) Final Year
-  Location → Moratuwa, Sri Lanka 🇱🇰
-  Focus    → Streaming · Analytics · Cloud
-  Status   → Open to DE Opportunities ✅
-
-╔══════════════════════════════════════════╗
-║  lahiru@data-eng:~$ cat mission.txt      ║
-╚══════════════════════════════════════════╝
-
-  Building the infrastructure that turns
-  raw data into decisions — from Oracle
-  production databases to distributed
-  streaming systems at scale.
+```yaml
+Name    : Lahiru Niroshan Sathsara
+Role    : DBA → Data Engineer (in transition)
+Company : VS Information Systems 🏦
+Degree  : BSc IT (Hons) · SLIIT · Final Year
+Base    : Moratuwa, Sri Lanka 🇱🇰
+Focus   : Streaming · SQL Analytics · Cloud
+Open to : Data Engineering Opportunities ✅
 ```
 
-<br clear="right"/>
+> Building infrastructure that turns raw data  
+> into decisions — from Oracle production DBs  
+> to distributed streaming pipelines at scale.
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="coding"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ▸ DATA PIPELINE VISUAL -->
-## 🏗️ &nbsp; How I Think About Data
+## 🏗️ How I Think About Data
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    MY DATA PIPELINE MINDSET                         │
-├─────────────┬──────────────┬─────────────┬────────────┬────────────┤
-│   INGEST    │   PROCESS    │    STORE    │  ANALYZE   │    SERVE   │
-├─────────────┼──────────────┼─────────────┼────────────┼────────────┤
-│  Kafka      │  Spark SS    │  Cassandra  │  SQL/dbt   │  Superset  │
-│  NiFi       │  PySpark     │  PostgreSQL │  Pandas    │  Power BI  │
-│  REST APIs  │  Medallion   │  DuckDB     │  NumPy     │  Tableau   │
-│  Oracle CDC │  ETL/ELT     │  BigQuery   │  Sklearn   │  Streamlit │
-│  Reddit API │  Batch+Stream│  MongoDB    │  Statistics│  Dashboards│
-└─────────────┴──────────────┴─────────────┴────────────┴────────────┘
-              ↑                                              ↑
-         [ Raw Data ]  ──── Docker · OCI · AWS ────  [ Decisions ]
+  INGEST         PROCESS         STORE          SERVE
+─────────────────────────────────────────────────────────
+  Kafka     →   Spark SS    →   Cassandra   →  Superset
+  NiFi      →   PySpark     →   PostgreSQL  →  Power BI
+  REST APIs →   Medallion   →   DuckDB      →  Tableau
+  Oracle    →   ETL / ELT   →   BigQuery    →  Streamlit
+            └───────────────────────────────┘
+                  Docker · OCI · AWS · Azure
 ```
 
 </div>
 
 ---
 
-<!-- ▸ TECH STACK WITH CATEGORIES & ICONS -->
-## 🛠️ &nbsp; Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ Data Engineering & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20%2F%20ELT-00B4D8?style=for-the-badge&logoColor=white)
-![Medallion](https://img.shields.io/badge/Medallion%20Architecture-0a2744?style=for-the-badge&logoColor=white)
+**Data Engineering & Streaming**
 
-### 🗄️ Databases
-![Oracle](https://img.shields.io/badge/Oracle%20DB%20(DBA)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![NiFi](https://img.shields.io/badge/NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-00B4D8?style=for-the-badge)
+![Medallion](https://img.shields.io/badge/Medallion_Arch-0a2744?style=for-the-badge)
+
+**Databases**
+
+![Oracle](https://img.shields.io/badge/Oracle_DBA-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧑‍💻 Languages & Analytics
+**Languages & Analytics**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📊 Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Superset-FF7F5E?style=for-the-badge&logo=apache&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-FF7F5E?style=for-the-badge&logo=apache&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![OCI](https://img.shields.io/badge/Oracle%20Cloud%20OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+**Cloud & DevOps**
+
+![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -134,64 +121,64 @@
 
 ---
 
-<!-- ▸ FEATURED PROJECTS — VISUAL CARDS -->
-## 🚀 &nbsp; Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🔴 &nbsp; Project | 🛠️ &nbsp; Stack | ⭐ &nbsp; Highlights |
-|---|---|---|
-| **[📡 Real-Time Social Media Analytics](https://github.com/Lahiru1Niroosh)** | Kafka · Spark SS · Cassandra · PostgreSQL · Superset · Docker | High-volume streaming pipeline · Dual-store strategy · Fully containerized |
-| **[🚗 SwiftRide Real-Time Pipeline](https://github.com/Lahiru1Niroosh)** | Spark · Kafka · Cassandra | Ride-sharing events · Low-latency query optimization · Docker deployment |
-| **[🏥 Healthcare EHR Analytics Dashboard](https://github.com/Lahiru1Niroosh)** | Python · PostgreSQL · Tableau · BigQuery | Complex EHR transformation · Power BI KPI dashboards · Clinical insights |
-| **[🍔 Uber Eats SL Marketplace Analytics](https://github.com/Lahiru1Niroosh)** *(ongoing)* | Python · SQL · Streamlit · Scikit-learn | Pricing elasticity model · Churn prediction · Interactive dashboards |
-| **[📈 Job Market Trend Tracker](https://github.com/Lahiru1Niroosh)** | Python · SQL · DuckDB · Power BI | Medallion Architecture · 50K+ records · Reddit API scraping |
+| Project | Stack | What it does |
+|:---|:---|:---|
+| [📡 Real-Time Social Media Analytics](https://github.com/Lahiru1Niroosh) | Kafka · Spark · Cassandra · PostgreSQL · Docker | High-volume streaming pipeline with dual-store strategy |
+| [🚗 SwiftRide Data Pipeline](https://github.com/Lahiru1Niroosh) | Kafka · Spark · Cassandra | Ride-sharing events pipeline, low-latency query layer |
+| [🏥 Healthcare EHR Analytics](https://github.com/Lahiru1Niroosh) | Python · PostgreSQL · Tableau · BigQuery | EHR transformation + Power BI KPI dashboards |
+| [🍔 Uber Eats SL Analytics](https://github.com/Lahiru1Niroosh) *(live)* | Python · SQL · Streamlit · Scikit-learn | Pricing elasticity · churn prediction · live dashboards |
+| [📈 Job Market Trend Tracker](https://github.com/Lahiru1Niroosh) | Python · DuckDB · Power BI | Medallion Architecture · Reddit API · 50K+ records |
 
 </div>
 
 ---
 
-<!-- ▸ GITHUB STATS — 3-PANEL -->
-## 📊 &nbsp; GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lahiru1Niroosh&show_icons=true&theme=github_dark&hide_border=true&bg_color=020917&title_color=00b4d8&icon_color=f4a261&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru1Niroosh&layout=compact&theme=github_dark&hide_border=true&bg_color=020917&title_color=00b4d8&text_color=c9d1d9&langs_count=8" height="175" alt="Top Languages"/>
+<table border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lahiru1Niroosh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=f4a261&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+</td>
+<td align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru1Niroosh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=7"/>
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahiru1Niroosh&theme=github-dark-blue&hide_border=true&background=020917&stroke=00b4d8&ring=00b4d8&fire=f4a261&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555" height="175" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=Lahiru1Niroosh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=f4a261&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555555"/>
 
 </div>
 
 ---
 
-<!-- ▸ ACTIVITY GRAPH -->
-## 📈 &nbsp; Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lahiru1Niroosh&theme=react-dark&bg_color=020917&color=00b4d8&line=0e6ba8&point=f4a261&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lahiru1Niroosh&theme=react-dark&bg_color=0d1117&color=00b4d8&line=0e6ba8&point=f4a261&area=true&hide_border=true&radius=6)](https://github.com/Lahiru1Niroosh)
 
 </div>
 
 ---
 
-<!-- ▸ TROPHIES -->
-## 🏆 &nbsp; GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lahiru1Niroosh&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" alt="GitHub Trophies"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Lahiru1Niroosh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ▸ CERTIFICATIONS TABLE -->
-## 📜 &nbsp; Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -200,81 +187,53 @@
 | 🔶 OCI 2025 Certified Foundations Associate | Oracle | 2025 |
 | 🤖 OCI 2025 AI Foundations Associate | Oracle | 2025 |
 | 🧠 Oracle Fusion AI Agent Studio Foundations | Oracle | 2025 |
-| ☁️ AWS SimuLearn: Computing Solutions | Amazon | 2024 |
-| 🐍 Python for Beginners | University of Moratuwa | 2024 |
+| ☁️ AWS SimuLearn: Computing Solutions | Amazon | 2025 |
+| 🐍 Python for Beginners | Uni. of Moratuwa | 2024 |
 | 🔷 Introduction to Azure Virtual Machines | Microsoft | 2024 |
 
 </div>
 
 ---
 
-<!-- ▸ ROADMAP -->
-## 🎯 &nbsp; 2025 Engineering Roadmap
+## 🌱 Currently Leveling Up
 
-```
-  ┌─── Q1 2025 ───────────────────────────────────────────── ✅ DONE ───┐
-  │  ██████████████████████  Oracle DBA · Production Banking DBs        │
-  │  ██████████████████████  OCI + AWS + Azure Certifications           │
-  └────────────────────────────────────────────────────────────────────┘
-  ┌─── Q2 2025 ────────────────────────────────────────── 🔄 ACTIVE ───┐
-  │  █████████████░░░░░░░░░  Kafka + Spark Streaming Projects           │
-  │  ████████░░░░░░░░░░░░░░  Marketplace Analytics System (Uber Eats)   │
-  └────────────────────────────────────────────────────────────────────┘
-  ┌─── Q3 2025 ─────────────────────────────────────────── ⏳ NEXT ────┐
-  │  ░░░░░░░░░░░░░░░░░░░░░░  Apache Airflow Orchestration               │
-  │  ░░░░░░░░░░░░░░░░░░░░░░  dbt for Data Transformation Layer          │
-  └────────────────────────────────────────────────────────────────────┘
-  ┌─── Q4 2025 ──────────────────────────────────────────── 🚀 GOAL ───┐
-  │  ░░░░░░░░░░░░░░░░░░░░░░  Land First Data Engineering Role           │
-  │  ░░░░░░░░░░░░░░░░░░░░░░  Delta Lake / Iceberg · Data Lakehouse      │
-  └────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+![Airflow](https://img.shields.io/badge/Learning-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/Learning-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Learning-Delta_Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white)
+![Spark Tuning](https://img.shields.io/badge/Deepening-Spark_Optimization-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+</div>
 
 ---
 
-<!-- ▸ SNAKE CONTRIBUTION GRAPH -->
-## 🐍 &nbsp; Eating My Contributions
+## 🐍 Eating My Contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lahiru1Niroosh/Lahiru1Niroosh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lahiru1Niroosh/Lahiru1Niroosh/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Lahiru1Niroosh/Lahiru1Niroosh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ▸ CURRENTLY LEARNING -->
-## 🌱 &nbsp; Currently Leveling Up
-
 <div align="center">
-
-![Apache Airflow](https://img.shields.io/badge/Learning-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/Learning-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Learning-Delta%20Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white)
-![Spark Optimization](https://img.shields.io/badge/Deepening-Spark%20Optimization-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-</div>
-
----
-
-<!-- ▸ FOOTER WAVE -->
-<div align="center">
-
-<br/>
 
 *"Data is not information, information is not knowledge — I build the systems that bridge that gap."*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahiru-niroshan/)
-[![Email](https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahirusathsara671@gmail.com)
+<a href="https://linkedin.com/in/lahiru-niroshan/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:lahirusathsara671@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e6ba8,100:020917&height=140&section=footer&text=Let's%20build%20pipelines%20that%20scale&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e6ba8,100:020917&height=130&section=footer&text=Let's%20build%20pipelines%20that%20scale&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=twinkling"/>
 
 </div>
