@@ -112,6 +112,25 @@ Open to  : Data Engineering Opportunities ✅
 
 <div align="center">
 
+### 🏦 [DataGuard Core — Data Reconciliation Engine](https://github.com/Lahiru1Niroosh/dataguard-core)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> Hierarchical data reconciliation engine simulating core banking → reporting replica drift detection · Schema, aggregate, partition, and hash-based row fingerprinting · 100% precision/recall on labeled fault injection · 2.3x–6.4x faster than naive full outer-join comparison
+
+---
+
+### 📊 [DataGuard Insights — BI Dashboard](https://github.com/Lahiru1Niroosh/dataguard-insights) *(Live)*
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+> Business-facing BI dashboard built on DataGuard Core's output · SQL window functions for integrity trends and cohort ranking · Translates row-level discrepancies into dollar exposure and affected-account risk · Data-driven executive summary generated from live query results
+
+---
+
 ### 📊 [Uber Eats SL — Marketplace Analytics](https://github.com/Lahiru1Niroosh) *(Live)*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
