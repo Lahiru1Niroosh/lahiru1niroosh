@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="460" height="320" viewBox="0 0 460 320" fill="none">
+  <style>
+    text { white-space: pre; font: 400 13px 'JetBrains Mono', 'Fira Code', Consolas, Menlo, monospace; }
+    .bar   { font: 400 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681; }
+    .p     { fill: #2ea44f; font-weight: 700; }
+    .cmd   { fill: #f0f6fc; }
+    .out   { fill: #90e0ef; }
+    .k     { fill: #00b4d8; }
+    .v     { fill: #c9d1d9; }
+    .ok    { fill: #2ea44f; }
+
+
+    .cursor { animation: blink 1s steps(1, end) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+  </style>
+
+  <rect x=".5" y=".5" width="459" height="319" rx="12" fill="#0d1117" stroke="#21262d"/>
+  <path d="M.5 12.5 A12 12 0 0 1 12.5 .5 H447.5 A12 12 0 0 1 459.5 12.5 V36.5 H.5 Z" fill="#161b22"/>
+  <line x1="0" y1="36.5" x2="460" y2="36.5" stroke="#21262d"/>
+  <circle cx="20" cy="18.5" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="18.5" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18.5" r="6" fill="#27c93f"/>
+  <text class="bar" x="230" y="23" text-anchor="middle">lahiru@data-eng: ~</text>
+
+  <g class="l l1"><text x="20" y="66"><tspan class="p">❯</tspan><tspan class="cmd"> whoami</tspan></text></g>
+  <g class="l l2"><text x="20" y="90" class="out">Lahiru Niroshan Sathsara</text></g>
+
+  <g class="l l3"><text x="20" y="122"><tspan class="p">❯</tspan><tspan class="cmd"> cat profile.yaml</tspan></text></g>
+  <g class="l l4"><text x="20" y="146"><tspan class="k">role    </tspan><tspan class="v">: DBA → Data Engineer</tspan></text></g>
+  <g class="l l5"><text x="20" y="168"><tspan class="k">company </tspan><tspan class="v">: VS Information Systems</tspan></text></g>
+  <g class="l l6"><text x="20" y="190"><tspan class="k">degree  </tspan><tspan class="v">: BSc IT (Hons) · SLIIT</tspan></text></g>
+  <g class="l l7"><text x="20" y="212"><tspan class="k">base    </tspan><tspan class="v">: Moratuwa, Sri Lanka</tspan></text></g>
+  <g class="l l8"><text x="20" y="234"><tspan class="k">focus   </tspan><tspan class="v">: Streaming · SQL · Cloud</tspan></text></g>
+  <g class="l l9"><text x="20" y="256"><tspan class="k">status  </tspan><tspan class="v">: </tspan><tspan class="ok">● open to data engineering roles</tspan></text></g>
+
+  <g class="l l10">
+    <text x="20" y="292"><tspan class="p">❯</tspan></text>
+    <rect class="cursor" x="36" y="281" width="8" height="15" fill="#00b4d8"/>
+  </g>
+</svg>

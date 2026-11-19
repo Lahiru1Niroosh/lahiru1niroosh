@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="16" viewBox="0 0 900 16" fill="none">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1">
+      <stop offset="0" stop-color="#00b4d8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00b4d8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#00b4d8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#caf0f8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#caf0f8"/>
+      <stop offset="1" stop-color="#caf0f8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="7.5" width="900" height="1" fill="url(#base)"/>
+  <rect x="-160" y="7" width="160" height="2" rx="1" fill="url(#shine)">
+    <animate attributeName="x" from="-160" to="900" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="450" cy="8" r="3" fill="#00b4d8">
+    <animate attributeName="r" values="2.5;4;2.5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;.5;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" fill="none">
+  <style>
+    .title { font: 600 13px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 4px; fill: #90e0ef; }
+    .sub   { font: 400 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681; }
+    .num   { font: 700 11px 'JetBrains Mono', Consolas, Menlo, monospace; fill: #00b4d8; letter-spacing: 1px; }
+    .head  { font: 700 17px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: 1.5px; }
+    .tool  { font: 400 12px 'JetBrains Mono', Consolas, Menlo, monospace; fill: #8b949e; }
+    .pat   { font: 600 11px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #48cae4; letter-spacing: .5px; }
+    .lbl   { font: 600 11px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681; letter-spacing: 2px; }
+    .pill  { font: 700 11px 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 1px; }
+
+    .node  { animation: rise .7s cubic-bezier(.2,.8,.2,1) both; }
+    .n1 { animation-delay: .1s } .n2 { animation-delay: .25s } .n3 { animation-delay: .4s } .n4 { animation-delay: .55s }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+
+    .glow  { animation: glow 3.2s ease-in-out infinite; }
+    .g1 { animation-delay: 0s } .g2 { animation-delay: .8s } .g3 { animation-delay: 1.6s } .g4 { animation-delay: 2.4s }
+    @keyframes glow { 0%,100% { stroke-opacity: .25 } 15% { stroke-opacity: 1 } 40% { stroke-opacity: .25 } }
+
+    .flow  { stroke-dasharray: 4 6; animation: dash 1s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -20 } }
+
+    .fade  { animation: fade 1s ease .9s both; }
+    @keyframes fade { from { opacity: 0 } to { opacity: 1 } }
+  </style>
+
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#00b4d8"/><stop offset="1" stop-color="#0a2744"/>
+    </linearGradient>
+    <radialGradient id="dot">
+      <stop offset="0" stop-color="#caf0f8"/><stop offset=".5" stop-color="#00b4d8"/><stop offset="1" stop-color="#00b4d8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Panel -->
+  <rect x=".5" y=".5" width="959" height="339" rx="16" fill="#0d1117" stroke="#21262d"/>
+
+  <text class="title" x="480" y="38" text-anchor="middle">DATA PIPELINE ARCHITECTURE</text>
+  <text class="sub" x="480" y="58" text-anchor="middle">from raw events to business-ready insight</text>
+
+  <!-- ───── Nodes ───── -->
+  <g class="node n1">
+    <rect x="36" y="82" width="180" height="170" rx="12" fill="#161b22"/>
+    <rect class="glow g1" x="36" y="82" width="180" height="170" rx="12" stroke="#00b4d8" stroke-width="1.5"/>
+    <rect x="50" y="82" width="152" height="3" rx="1.5" fill="url(#bar)"/>
+    <text class="num" x="54" y="112">01</text>
+    <text class="head" x="54" y="136">INGEST</text>
+    <line x1="54" y1="148" x2="198" y2="148" stroke="#21262d"/>
+    <text class="tool" x="54" y="172">Kafka</text>
+    <text class="tool" x="54" y="190">NiFi · REST APIs</text>
+    <text class="tool" x="54" y="208">Docker</text>
+    <text class="pat"  x="54" y="236">Event Streaming</text>
+  </g>
+
+  <g class="node n2">
+    <rect x="272" y="82" width="180" height="170" rx="12" fill="#161b22"/>
+    <rect class="glow g2" x="272" y="82" width="180" height="170" rx="12" stroke="#00b4d8" stroke-width="1.5"/>
+    <rect x="286" y="82" width="152" height="3" rx="1.5" fill="url(#bar)"/>
+    <text class="num" x="290" y="112">02</text>
+    <text class="head" x="290" y="136">PROCESS</text>
+    <line x1="290" y1="148" x2="434" y2="148" stroke="#21262d"/>
+    <text class="tool" x="290" y="172">Spark Streaming</text>
+    <text class="tool" x="290" y="190">PySpark · ETL/ELT</text>
+    <text class="tool" x="290" y="208">OCI · AWS · Azure</text>
+    <text class="pat"  x="290" y="236">Medallion Architecture</text>
+  </g>
+
+  <g class="node n3">
+    <rect x="508" y="82" width="180" height="170" rx="12" fill="#161b22"/>
+    <rect class="glow g3" x="508" y="82" width="180" height="170" rx="12" stroke="#00b4d8" stroke-width="1.5"/>
+    <rect x="522" y="82" width="152" height="3" rx="1.5" fill="url(#bar)"/>
+    <text class="num" x="526" y="112">03</text>
+    <text class="head" x="526" y="136">STORE</text>
+    <line x1="526" y1="148" x2="670" y2="148" stroke="#21262d"/>
+    <text class="tool" x="526" y="172">Cassandra</text>
+    <text class="tool" x="526" y="190">PostgreSQL · DuckDB</text>
+    <text class="tool" x="526" y="208">BigQuery · MongoDB</text>
+    <text class="pat"  x="526" y="236">Dual-Store Strategy</text>
+  </g>
+
+  <g class="node n4">
+    <rect x="744" y="82" width="180" height="170" rx="12" fill="#161b22"/>
+    <rect class="glow g4" x="744" y="82" width="180" height="170" rx="12" stroke="#00b4d8" stroke-width="1.5"/>
+    <rect x="758" y="82" width="152" height="3" rx="1.5" fill="url(#bar)"/>
+    <text class="num" x="762" y="112">04</text>
+    <text class="head" x="762" y="136">SERVE</text>
+    <line x1="762" y1="148" x2="906" y2="148" stroke="#21262d"/>
+    <text class="tool" x="762" y="172">Power BI · Tableau</text>
+    <text class="tool" x="762" y="190">Superset</text>
+    <text class="tool" x="762" y="208">Streamlit</text>
+    <text class="pat"  x="762" y="236">Real-Time Dashboards</text>
+  </g>
+
+  <!-- ───── Connectors + data packets ───── -->
+  <g class="fade">
+    <line class="flow" x1="218" y1="167" x2="270" y2="167" stroke="#00b4d8" stroke-opacity=".5" stroke-width="1.5"/>
+    <line class="flow" x1="454" y1="167" x2="506" y2="167" stroke="#00b4d8" stroke-opacity=".5" stroke-width="1.5"/>
+    <line class="flow" x1="690" y1="167" x2="742" y2="167" stroke="#00b4d8" stroke-opacity=".5" stroke-width="1.5"/>
+
+    <path d="M264 162 L271 167 L264 172" stroke="#00b4d8" stroke-width="1.5"/>
+    <path d="M500 162 L507 167 L500 172" stroke="#00b4d8" stroke-width="1.5"/>
+    <path d="M736 162 L743 167 L736 172" stroke="#00b4d8" stroke-width="1.5"/>
+
+    <circle r="5" fill="url(#dot)"><animateMotion dur="1.6s" repeatCount="indefinite" path="M218 167 H266"/></circle>
+    <circle r="5" fill="url(#dot)"><animateMotion dur="1.6s" begin=".8s" repeatCount="indefinite" path="M218 167 H266"/></circle>
+    <circle r="5" fill="url(#dot)"><animateMotion dur="1.6s" begin=".3s" repeatCount="indefinite" path="M454 167 H502"/></circle>
+    <circle r="5" fill="url(#dot)"><animateMotion dur="1.6s" begin="1.1s" repeatCount="indefinite" path="M454 167 H502"/></circle>
+    <circle r="5" fill="url(#dot)"><animateMotion dur="1.6s" begin=".6s" repeatCount="indefinite" path="M690 167 H738"/></circle>
+    <circle r="5" fill="url(#dot)"><animateMotion dur="1.6s" begin="1.4s" repeatCount="indefinite" path="M690 167 H738"/></circle>
+  </g>
+
+  <!-- ───── Medallion strip ───── -->
+  <g class="fade">
+    <text class="lbl" x="250" y="300">MEDALLION LAYERS</text>
+
+    <rect x="400" y="284" width="88" height="24" rx="12" fill="#cd7f32" fill-opacity=".14" stroke="#cd7f32" stroke-opacity=".6"/>
+    <text class="pill" x="444" y="300" text-anchor="middle" fill="#e0a060">BRONZE</text>
+
+    <path d="M498 296 H520 M514 291 L520 296 L514 301" stroke="#6e7681" stroke-width="1.5"/>
+
+    <rect x="530" y="284" width="88" height="24" rx="12" fill="#c0c0c0" fill-opacity=".12" stroke="#c0c0c0" stroke-opacity=".6"/>
+    <text class="pill" x="574" y="300" text-anchor="middle" fill="#d0d7de">SILVER</text>
+
+    <path d="M628 296 H650 M644 291 L650 296 L644 301" stroke="#6e7681" stroke-width="1.5"/>
+
+    <rect x="660" y="284" width="88" height="24" rx="12" fill="#ffd700" fill-opacity=".12" stroke="#ffd700" stroke-opacity=".6"/>
+    <text class="pill" x="704" y="300" text-anchor="middle" fill="#ffd866">GOLD</text>
+  </g>
+</svg>
