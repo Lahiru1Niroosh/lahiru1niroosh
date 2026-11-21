@@ -57,7 +57,7 @@ My focus is bridging **operational DBA work** and **modern data engineering**: s
 </td>
 <td width="38%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer at work"/>
+<img src="https://i.ibb.co/rKvh5dM3/Animated-Data-Engineering-Journey.gif" width="100%" alt="Animated Data Engineering Journey"/>
 
 </td>
 </tr>
@@ -175,23 +175,23 @@ My focus is bridging **operational DBA work** and **modern data engineering**: s
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-- Detects drift between core banking and reporting replicas
-- Schema, aggregate, partition & hash-based row fingerprinting
-- **100%** precision/recall on labeled fault injection
-- **2.3x–6.4x** faster than a naive full outer-join comparison
+- Detects drift between a simulated core banking system and its reporting replica
+- Schema, aggregate, partition checks plus hash-based row fingerprinting
+- **100%** precision/recall on injected, labeled faults (synthetic test set); classifies 7 of 8 fault types
+- **2.3x** faster at 100K rows and **6.4x** at 1M rows vs a naive SQL `EXCEPT` baseline
 
 </td>
 <td width="50%" valign="top">
 
-### [DataGuard Insights](https://github.com/Lahiru1Niroosh/dataguard-insights) &nbsp;<img src="https://img.shields.io/badge/LIVE-2ea44f?style=flat-square"/>
-**BI Dashboard**
+### [Billing Assurance Control Tower](https://github.com/Lahiru1Niroosh/billing-assurance-control-tower) &nbsp;<a href="https://billing-assurance-control-tower-demo.streamlit.app/"><img src="https://img.shields.io/badge/LIVE-2ea44f?style=flat-square"/></a>
+**Revenue Protection & Controls Analytics**
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-- Business-facing dashboard built on DataGuard Core output
-- SQL window functions for integrity trends & cohort ranking
-- Turns row-level discrepancies into **dollar exposure** & account risk
-- Executive summary generated from live query results
+- 5-control framework: duplicate billing, invalid charges, anomalies and SLA monitoring
+- DuckDB staging/core/controls layers; Streamlit queries governed SQL views
+- Exception queue, discount decision engine and a parallel Excel report
+- Validated on synthetic injected errors (~90% precision / ~99% recall); exposure shown is under review, not confirmed loss
 
 </td>
 </tr>
@@ -200,28 +200,28 @@ My focus is bridging **operational DBA work** and **modern data engineering**: s
 <tr>
 <td width="50%" valign="top">
 
-### [Uber Eats SL](https://github.com/Lahiru1Niroosh) &nbsp;<img src="https://img.shields.io/badge/LIVE-2ea44f?style=flat-square"/>
-**Marketplace Analytics**
+### [DataGuard Insights](https://github.com/Lahiru1Niroosh/dataguard-insights) &nbsp;<a href="https://dataguard-insights-cjf2jbrvhgsxpaup4zljkg.streamlit.app/"><img src="https://img.shields.io/badge/LIVE-2ea44f?style=flat-square"/></a>
+**BI Dashboard on Reconciliation Output**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
-- End-to-end simulated marketplace analytics system
-- SQL KPIs: conversion rate, revenue/eater, demand patterns
-- Pricing elasticity model & restaurant-partner churn prediction
-- Interactive dashboards with automated weekly reporting
+- Business-facing dashboard built on DataGuard Core output
+- SQL window functions for integrity trends and account risk ranking
+- Turns row-level discrepancies into account-level risk
+- Executive summary generated from live query results
 
 </td>
 <td width="50%" valign="top">
 
-### [Social Media Analytics](https://github.com/Lahiru1Niroosh)
-**Real-Time Streaming Platform**
+### [F1 Real-Time Data Pipeline](https://github.com/Lahiru1Niroosh/F1-Real-Time-Data-Pipline)
+**Streaming Ingestion Architecture**
 
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Spark_SS-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Spark_SS-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-- High-volume streaming pipeline
-- Kafka producers & consumers for ingestion
-- Dual-store strategy (Cassandra + PostgreSQL)
-- Real-time Superset dashboards, fully containerized
+- Kafka ingestion of F1 race data, processed with Spark Structured Streaming
+- Dual-store design: Cassandra for low-latency serving, PostgreSQL for relational analytics
+- Airflow orchestration and dashboards on top, fully containerized with Docker
+- Built entirely on free and open-source tooling
 
 </td>
 </tr>
@@ -230,44 +230,56 @@ My focus is bridging **operational DBA work** and **modern data engineering**: s
 <tr>
 <td width="50%" valign="top">
 
-### [SwiftRide Pipeline](https://github.com/Lahiru1Niroosh)
-**Real-Time Ride Events**
+### [Job Market Trend Tracker](https://github.com/Lahiru1Niroosh/reddit-job-market-analysis)
+**Medallion Pipeline on Reddit Data**
 
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-- End-to-end ride event architecture
-- Spark Structured Streaming for real-time processing
-- Dual storage tuned for low-latency queries
-- Fully containerized with Docker
+- Automated Reddit API scraper across **100+** job-discussion sources
+- Medallion Architecture (Bronze → Silver → Gold) over **50,000+** records
+- Bronze raw JSON, Silver cleaned with DuckDB SQL, Gold trend views and growth projection
 
 </td>
 <td width="50%" valign="top">
 
-### [Healthcare Claims & EHR](https://github.com/Lahiru1Niroosh)
-**Analytics Dashboard**
+### [RevenueLift](https://github.com/Lahiru1Niroosh/revenuelift)
+**A/B Test Analysis & Decision Report**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-- Complex EHR cleaning & transformation with Pandas
-- Loaded into PostgreSQL & BigQuery for KPI analysis
-- Interactive Power BI dashboards
-- Surfaced patterns to improve operational efficiency
+- Simulated checkout experiment: power analysis, significance tests, guardrail metrics
+- Benjamini-Hochberg correction across 10 tests: the headline lift did not survive, the mobile segment did
+- Recommendation: ship mobile only, monitor page-load regression, re-test desktop
 
 </td>
 </tr>
 
 <!-- Row 4 -->
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### [Job Market Trend Tracker](https://github.com/Lahiru1Niroosh)
-**Medallion Pipeline on Reddit Data**
+### [Uber Eats SL Analytics](https://github.com/Lahiru1Niroosh/uber-eats-sl-analytics-Project)
+**Marketplace Analytics Platform**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-- Automated Reddit API scraper across **100+** job-discussion sources
-- Medallion Architecture (Bronze → Silver → Gold) over **50,000+** records
-- Interactive Power BI dashboards for KPI monitoring
+- Simulated marketplace: 70,000+ orders, 200 restaurant partners, 300 couriers
+- SQL KPIs, demand peaks, zone-level GMV and price elasticity (≈ -0.5)
+- Random Forest churn model scoring restaurant partners
+- 5-page Streamlit dashboard
+
+</td>
+<td width="50%" valign="top">
+
+### [ACAS: Misinformation Detection](https://github.com/Lahiru1Niroosh/acas-social-media)
+**Privacy-First Multi-Agent System (Final-Year Research)**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+- 4-agent CrewAI pipeline; PII masking always runs first
+- RoBERTa text, CNN image and CLIP/OCR similarity agents
+- MongoDB persistence for raw data, PII audit trail, agent runs and verdicts
+- Group research project; ML weights excluded from the repo
 
 </td>
 </tr>
@@ -365,6 +377,6 @@ My focus is bridging **operational DBA work** and **modern data engineering**: s
 &nbsp;
 <a href="mailto:lahirusathsara671@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4d8,50:0a2744,100:020917&height=160&section=footer&reversal=true&text=Let%27s%20build%20pipelines%20that%20scale&fontSize=20&fontColor=ffffff&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a2744,100:020917&height=200&section=footer&text=Building%20Pipelines%20That%20Scale&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Footer banner"/>
 
 </div>
