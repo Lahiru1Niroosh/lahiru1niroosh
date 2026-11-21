@@ -55,7 +55,7 @@ My focus is bridging **operational DBA work** and **modern data engineering**: s
 | **Goal** | Senior Data Engineer |
 
 </td>
-<td width="38%" valign="middle" align="center">
+<td width="100%"  valign="middle" align="center">
 
 <img src="https://i.ibb.co/rKvh5dM3/Animated-Data-Engineering-Journey.gif" width="100%" alt="Animated Data Engineering Journey"/>
 
