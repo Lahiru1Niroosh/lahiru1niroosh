@@ -57,7 +57,7 @@ My focus is bridging **operational DBA work** and **modern data engineering**: s
 </td>
 <td width="100%"  valign="middle" align="center">
 
-<img src="https://i.ibb.co/rKvh5dM3/Animated-Data-Engineering-Journey.gif" width="100%" alt="Animated Data Engineering Journey"/>
+<img src="https://i.ibb.co/M53Q6jjW/Gemini-Generated-Gif-344pt344pt344pt3.gif" width="100%" alt="Animated Data Engineering Journey"/>
 
 </td>
 </tr>
